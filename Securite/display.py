@@ -74,7 +74,7 @@ else:
 			# les souris ne sont pas acceptées sur le système mais elles possèdent quand même un affichage spécifique
 			elif USB_class == "03" and USB_subclass == "01" and USB_protocol == "02":
 				write_file("/var/log/GateKeepr.log","Le système a détecté que vous avez branché une souris. Êtes-vous sûr qu'il s'agit du bon dispositif USB ?")
-			# les périphériques de stockage de masse nécessite une analyse antivirale
+			# les périphériques de stockage de masse nécessitent une analyse antivirale
 			elif USB_class == "08":
 				write_file("/var/log/GateKeepr.log","Le système a détecté que vous avez branché " + USB_classification.get(USB_class) + ". Votre périphérique va être scanné à la recherche de virus.\n2")
 				path_file="/var/GateKeepr/Securite/usb_id.sh"
