@@ -16,7 +16,7 @@ First engineering year school project at ESIEE Paris, all was done in two months
 
 GateKeepr is a USB threat detection station designed to identify and eliminate common threats on all USB devices (keyboard, mass storage, mouse, flash disk). It includes a Keylogger which analyses all commands and key pressed in order to proctect the user from any Bad USB like the Rubber Ducky or the Bash Bunny. For any mass storage device, it uses the ClamAV linux solution to scan for any threats. By guaranteeing data security and ensuring device integrity, you can be assured of optimum protection against malicious USB attacks.
 
-:1st_place_medal: **The project was awared with the first prize for its presentation video during the 'Journée des projets 2023'**
+:1st_place_medal: **The project was awarded with the first prize for its presentation video during the 'Journée des projets 2023'**
 
 :clapper: [Presentation video](https://www.youtube.com/watch?v=ST22Cu-a1sA)
 
