@@ -18,7 +18,7 @@ GateKeepr is a USB threat detection station designed to identify and eliminate c
 
 :1st_place_medal: **The project was awared with the first prize for its presentation video during the 'Journée des projets 2023'**
 
-:clapper: [Presentation video]([url](https://www.youtube.com/watch?v=ST22Cu-a1sA))
+:clapper: [Presentation video](https://www.youtube.com/watch?v=ST22Cu-a1sA)
 
 :fr:
 
@@ -28,7 +28,7 @@ GateKeepr est une station de détection des menaces USB conçue pour identifier 
 
 :1st_place_medal: **Le projet a reçu le premier prix pour sa vidéo de présentation lors de la Journée des projets 2023**
 
-:clapper: [Vidéo de présentation]([url](https://www.youtube.com/watch?v=ST22Cu-a1sA))
+:clapper: [Vidéo de présentation](https://www.youtube.com/watch?v=ST22Cu-a1sA)
 
 
 
